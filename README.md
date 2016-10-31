@@ -26,3 +26,8 @@ providing functions for loading/saving .mif files. Remember to compile after edi
 * Start: spacebar
 * Pause: "P"
 * Reset: Altera DE1 Key(0) physical button
+
+##Authors
+Pietro Bassi
+
+Marco Torsello
