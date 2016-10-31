@@ -1,6 +1,8 @@
 # Arkanoid-VHDL
 Arkanoid hardware implementation for FPGA, tested on Altera Cyclone II DE1 board, developed using Altera Quartus II Web Edition.
 
+Video presentation: https://www.youtube.com/watch?v=pVajZEJieoY
+
 ##Project structure
 * arkanoid-vhdl-master: main project files (source code)
 * Arkanoid Level Editor: a nice wysiwyg level editor that lets you create your own levels, 
